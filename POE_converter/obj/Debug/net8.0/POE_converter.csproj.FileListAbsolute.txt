@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\Personal_Projects\POE_converter\bin\Debug\net8.0\POE_converter.exe
+C:\Users\Admin\Documents\GitHub\Personal_Projects\POE_converter\bin\Debug\net8.0\POE_converter.deps.json
+C:\Users\Admin\Documents\GitHub\Personal_Projects\POE_converter\bin\Debug\net8.0\POE_converter.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\Personal_Projects\POE_converter\bin\Debug\net8.0\POE_converter.dll
+C:\Users\Admin\Documents\GitHub\Personal_Projects\POE_converter\bin\Debug\net8.0\POE_converter.pdb
+C:\Users\Admin\Documents\GitHub\Personal_Projects\POE_converter\obj\Debug\net8.0\POE_converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\Personal_Projects\POE_converter\obj\Debug\net8.0\POE_converter.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\Personal_Projects\POE_converter\obj\Debug\net8.0\POE_converter.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Personal_Projects\POE_converter\obj\Debug\net8.0\POE_converter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Personal_Projects\POE_converter\obj\Debug\net8.0\POE_converter.dll
+C:\Users\Admin\Documents\GitHub\Personal_Projects\POE_converter\obj\Debug\net8.0\refint\POE_converter.dll
+C:\Users\Admin\Documents\GitHub\Personal_Projects\POE_converter\obj\Debug\net8.0\POE_converter.pdb
+C:\Users\Admin\Documents\GitHub\Personal_Projects\POE_converter\obj\Debug\net8.0\POE_converter.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\Personal_Projects\POE_converter\obj\Debug\net8.0\ref\POE_converter.dll
